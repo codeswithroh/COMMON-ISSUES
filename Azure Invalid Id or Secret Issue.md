@@ -8,6 +8,6 @@
 
 3) after creating just copy the name of the new service connection
 4) go to edit the azure-pipelines.yml inside the repo
-5) past the new service connection name in: dockerRegistryServiceConnection
+5) paste the new service connection name in: dockerRegistryServiceConnection
 
 ## VOILA 🎉🎊
